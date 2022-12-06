@@ -1,0 +1,11 @@
+.lnk{
+    padding: 15px;
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 150px;
+    border-radius: 5px;
+    border: transparent;
+    color: white;
+    background-color: blueviolet;
+    font-size: x-large;
+}
